@@ -14,8 +14,6 @@
 
 For the first 5 queries, we'll be using the `users` table.
 
-![users table](https://andydlindsay-portfolio.s3.amazonaws.com/lighthouse/w5d1-users.io.png)
-
 1. List total number of users
 
 ```sql
